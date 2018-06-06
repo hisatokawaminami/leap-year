@@ -1,3 +1,4 @@
+// User interface logic
 $(function(){
 
   $("#submit").click(function(){
